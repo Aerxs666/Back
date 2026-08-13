@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-13T00:25:53.041Z",
+  "appliedFilter": null,
+  "summary": {
+    "total": 12,
+    "active": 10,
+    "inactive": 2,
+    "averageHourlyRate": 12.75,
+    "mostExpensive": {
+      "id": "g010",
+      "name": "Daniela Ortiz",
+      "category": "supervision",
+      "hourlyRate": 20,
+      "yearsOfExperience": 12,
+      "active": true
+    },
+    "cheapest": {
+      "id": "g007",
+      "name": "Diego Morales",
+      "category": "desarmado",
+      "hourlyRate": 7.5,
+      "yearsOfExperience": 1,
+      "active": true
+    },
+    "categories": [
+      "armado",
+      "escolta",
+      "desarmado",
+      "supervision",
+      "vigilancia_electronica"
+    ]
+  },
+  "guards": [
+    {
+      "id": "g001",
+      "name": "Carlos Ramírez",
+      "category": "armado",
+      "hourlyRate": 12.5,
+      "yearsOfExperience": 8,
+      "active": true
+    },
+    {
+      "id": "g002",
+      "name": "Laura Gómez",
+      "category": "escolta",
+      "hourlyRate": 15,
+      "yearsOfExperience": 6,
+      "active": true
+    },
+    {
+      "id": "g003",
+      "name": "Andrés Torres",
+      "category": "desarmado",
+      "hourlyRate": 8,
+      "yearsOfExperience": 2,
+      "active": true
+    },
+    {
+      "id": "g004",
+      "name": "María Fernanda Ruiz",
+      "category": "supervision",
+      "hourlyRate": 18.75,
+      "yearsOfExperience": 10,
+      "active": true
+    },
+    {
+      "id": "g005",
+      "name": "Julián Pérez",
+      "category": "vigilancia_electronica",
+      "hourlyRate": 10.5,
+      "yearsOfExperience": 4,
+      "active": true
+    },
+    {
+      "id": "g006",
+      "name": "Camila Herrera",
+      "category": "armado",
+      "hourlyRate": 13,
+      "yearsOfExperience": 5,
+      "active": false
+    },
+    {
+      "id": "g007",
+      "name": "Diego Morales",
+      "category": "desarmado",
+      "hourlyRate": 7.5,
+      "yearsOfExperience": 1,
+      "active": true
+    },
+    {
+      "id": "g008",
+      "name": "Valentina Castro",
+      "category": "escolta",
+      "hourlyRate": 16.25,
+      "yearsOfExperience": 7,
+      "active": true
+    },
+    {
+      "id": "g009",
+      "name": "Santiago López",
+      "category": "vigilancia_electronica",
+      "hourlyRate": 11,
+      "yearsOfExperience": 3,
+      "active": false
+    },
+    {
+      "id": "g010",
+      "name": "Daniela Ortiz",
+      "category": "supervision",
+      "hourlyRate": 20,
+      "yearsOfExperience": 12,
+      "active": true
+    },
+    {
+      "id": "g011",
+      "name": "Felipe Rojas",
+      "category": "armado",
+      "hourlyRate": 12,
+      "yearsOfExperience": 4,
+      "active": true
+    },
+    {
+      "id": "g012",
+      "name": "Isabella Vargas",
+      "category": "desarmado",
+      "hourlyRate": 8.5,
+      "yearsOfExperience": 2,
+      "active": true
+    }
+  ]
+}
